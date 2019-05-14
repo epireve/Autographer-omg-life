@@ -5,6 +5,14 @@ Autographer is a hands-free, wearable digital camera developed by OMG Life. The 
 
 Autographer can take up to 2,000 photos a day and contains 8GB of memory that can store up to 16,000 images.
 
+In addition to a PIR motion detector, the Autographer unit also has:
+* Colour sensor: Autographer’s ‘eye’, perceiving light and brightness and adjusting the image accordingly
+* Temperature: in built thermometer, measuring ambient temperature
+* Magnetometer: determines which direction the camera is facing
+* Accelerometer: measures how quickly or slowly the Autographer is accelerating
+
+It then combines all this information with its algorithm to decide when to take a picture.
+
 ![Autographer](images/autographer-off-on.jpeg)
 ![](images/clipon.jpeg)
 ![](images/clipon2.jpeg)
