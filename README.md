@@ -16,3 +16,14 @@ It then combines all this information with its algorithm to decide when to take 
 ![Autographer](images/autographer-off-on.jpeg)
 ![](images/clipon.jpeg)
 ![](images/clipon2.jpeg)
+
+## Autographer key specs
+* 5MP sensor
+* 3mm 1:3.2 ultra-wideangle fixed-focus lens; 136° angle of view; glass hybrid construction
+* Automatic shooting based on input from five sensors
+* 8GB built-in memory (stores up to 28,000 images)
+* Built-in GPS
+* Bluetooth for communication with smartphone
+* Built-in battery, charges over USB
+* 90mm x 37.4mm x 22.9mm
+* 58g
