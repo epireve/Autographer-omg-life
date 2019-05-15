@@ -487,5 +487,311 @@ You must pair Autographer with your Smartphone before you use it for the first t
 - To switch off Bluetooth on Autographer click any button
 
 ## Smartphone App (13)
+
+### How do I connect Autographer to my iPhone?
+
+The Autographer smartphone app enables you to view, tag, delete and share images on the go. You can also create and share animated GIF sequences. The iOS version can also create videos with music.
+
+Download the app from the [Apple App Store](http://web.archive.org/web/20160314075211/https://itunes.apple.com/us/app/autographer-worlds-first-intelligent/id653417932).
+
+**You must pair Autographer with your iPhone before you use it for the first time:**
+
+1. Enable Bluetooth on your smartphone in Settings – Bluetooth – On (or in iOS 5.0, Settings – General – Bluetooth – On)
+2. Turn your Autographer on
+3. Press Autographer&#39;s menu button until Bluetooth &quot;OFF&quot; is displayed
+4. Press Autographer&#39;s select button twice until &quot;PAIR&quot; is displayed, it will then change to &quot;DISCOVER&quot;
+5. Autographer will then appear in the list of Bluetooth devices on the smartphone
+6. Select &#39;Misc&#39; in the list of devices
+7. You will be asked to &quot;Allow&quot; Autographer to communicate with &quot;OMG Life Autographer&quot;
+8. On first launch of the app, you will be shown a tour outlining the various features available
+9. Once the tour is finished, your Autographer will be shown on screen – select &quot;Connect&quot;
+10. For security, you will be asked to enter a four-digit code as displayed on the Autographer into the app
+11. Autographer will display &quot;CONNECTED&quot; and the application will open on your smartphone.
+
+**For subsequent uses, select &quot;ON&quot; from the Autographer Bluetooth menu to connect to your smartphone:**
+
+1. Providing that Bluetooth is enabled on your smartphone, the Autographer will connect automatically and ask if you would like to launch the Autographer app.
+2. Autographer will switch Bluetooth off after 10 minutes of inactivity.
+3. Autographer does not capture images while Bluetooth is active.
+
+To switch off Bluetooth on Autographer click any button
+
+The following video tutorial shows the smartphone app in use with an iOS device but the software and process is similar on Android devices:
+
+\&lt;Video\&gt;
+
+
+
+### What are the minimum requirements for my smartphone?
+
+#### Autographer app for iOS
+
+iOS 5.0 or higher is required to run the App.
+
+Supported devices include:
+
+- iPhone 6
+- iPhone 5
+- iPhone 4S
+- iPhone 4
+- iPhone 3GS
+- iPod touch (5th generation)
+- iPod touch (4th generation)
+
+#### Autographer app for Android
+
+Jelly Bean (4.X) and newer Android versions are supported.
+
+The app has been tested on the following devices:
+
+- Nexus 5
+- Moto G
+- Galaxy S4
+- Galaxy S4 Mini
+- Galaxy S3
+- Galaxy S3 Mini
+- Galaxy S2
+- Galaxy Note
+- Galaxy Note 2
+- Galaxy Fame
+- Xperia S
+- Xperia SP
+- Xperia L
+- Xperia E
+- Xperia Z
+- Xperia T
+- HTC One
+- HTC One SV
+
+
+
+### How do I navigate and view my images?
+
+The app has three main views: Chapter, Stream, and Image view.
+
+#### Chapter view
+
+Chapter view provides an easy to navigate overview of all your images. After connecting to an Autographer the app opens up Chapter view.
+
+The view scrolls vertically with the most recent chapter at the bottom of the screen. &#39;Page up&#39; and &#39;Page down&#39; buttons at the bottom of the screen quickly navigate to the top and bottom of the range of chapters.
+
+Tapping an image takes you to the &#39;Stream&#39; view of images within the chapter.
+
+#### Stream view
+
+Stream view shows all the images on Autographer, tiled in chronological order with the most recent image at the bottom of the screen.
+
+Stream view supports both portrait and landscape orientations. An inline separator groups images into hours. &#39;Page up&#39; and &#39;Page down&#39; buttons at the bottom of the screen quickly navigate up and down pages of images.
+
+Pressing and holding an image will enable &#39;Edit&#39; mode, enabling the selection of multiple images for sharing, deleting, tagging, favourites, and creation of a stop motion video (iOS only) or GIF.
+
+Tapping an image takes you to the large &#39;Image&#39; view of that image.
+
+#### Image view
+
+Image view lets you view and navigate images one at a time alongside any GPS data plotted on a map. Image view supports both portrait and landscape orientations.
+
+Swiping a finger from right to left across the image will display the next chronological image. Swiping a finger from left to right across the image will display the previous chronological image.
+
+- **Slideshow:** Play images back as slideshow by pressing the &#39;Play&#39; button.
+- **Magnify (iOS only):** Pinch and zoom can magnify the image up to 2x.
+- **Metadata:** A single tap on the image will flip the image to reveal its metadata. Tapping the image metadata view will return to the image.
+- **Maps:** The map shows the current image location and the location of other loaded images. Pinch, zoom, and pan work on the map. Routes are displayed as purple dots.
+
+### How do I select and delete images?
+
+Pressing and holding an image in &#39;Stream&#39; view, or tapping the top-right navigation bar button will open &#39;Edit&#39; mode.
+
+&#39;Edit&#39; mode allows you to select and deselect multiple images with a tap. You can also select multiple images by dragging a selection.
+
+The &#39;Delete&#39; button permanently deletes the currently selected images from Autographer.
+
+The &#39;Clear&#39; button to the left of the navigation bar deselects the current selection of images.
+
+### How do I save images to my Smartphone?
+
+**iPhone**
+
+- Save images to the iPhone Camera Roll from &#39;Stream&#39; view by selecting them in &#39;Edit Mode&#39;, tapping the leftmost &#39;Action&#39; button in toolbar, selecting &#39;Share&#39; and then selecting &#39;Save to Camera Roll&#39;.
+- In &#39;Image&#39; view, tap the leftmost &#39;Share&#39; button in toolbar and select &#39;Save to Camera Roll&#39;.
+
+**Android**
+
+- Save images to the gallery from &#39;Stream&#39; view by selecting them in &#39;Edit Mode&#39;, tapping the leftmost &#39;Action&#39; button in toolbar, selecting &#39;Save&#39;
+
+The selected image(s) will be saved to the smartphone and become visible in the Photos/Gallery app.
+
+
+
+### How do I share images?
+
+You can share selected image(s) to Facebook, Twitter, Tumblr, email, and the Autographer Share online service.
+
+#### Android
+
+- Tap &#39;Share&#39;. A list of available services will appear. Select the service with which you wish to share the image(s).
+
+#### iOS
+
+**Facebook**
+
+- **iOS 5:** You must authorise Autographer to use your Facebook account the first time you share. You will be directed to Safari and asked to &quot;allow&quot; Autographer to post on your behalf. You will then be returned to the Autographer app and can start sharing directly to Facebook.
+- **iOS 6:** You must enter your Facebook credentials in &#39;Settings&#39; on your iPhone to enable Facebook sharing from Autographer.
+
+**Twitter**
+
+- You must enter your Twitter credentials in &#39;Settings&#39; on your iPhone to enable Twitter sharing from Autographer
+
+**Tumblr**
+
+- You must authorise Autographer to use your Tumblr account the first time you share. You will be directed to Safari and asked to &quot;allow&quot; Autographer to post on your behalf. You will then be returned to the Autographer app and can start sharing directly to Tumblr.
+
+**Autographer Share**
+
+- You will be taken to the Autographer Share &#39;Sign in&#39; view. If you have not registered to the Autographer Share service you should click the &#39;sign up&#39; icon. If you are already signed up, you can log into you account and upload image(s).
+
+**Email**
+
+- Sharing to Mail opens a new e-mail composer screen with the Autographer image(s) attached.
+
+### How do I create a video / animated GIF?
+
+**Android**
+
+NOTE: The Autographer smartphone app for Android currently supports the creation of Animated GIFs only. The option to create videos will be available in a future release.
+
+- Create GIF by selecting between 2 and 50 images in &#39;Edit&#39; mode, then tapping the share button then the &#39;create&#39; button. A video preview window will open in the top half of the view – tapping the window will preview your GIF. Select frames per second in the lower half of the view.
+- Save the GIF to your Android device by tapping &#39;Save&#39; at the right of the navigation bar.  You will be given the option to share the GIF after it has been saved.
+- You will then be shown a list of installed apps that accept photos, selecting one will open the interface for that particular app.
+
+Additional notes on Android animated GIF creation:
+
+- Saved GIFs will not animate when viewed in the Gallery app on all devices but will animate if shared to an appropriate service.
+- You will need to have appropriate apps installed on your device to be able to share with them. Examples are Tumblr, Google+, Dropbox etc.
+- When sharing a GIF, some apps will appear in the list, that do not support GIFs properly.  Facebook and Twitter for example do not support GIFs. Depending on the app either the first frame of the GIF will be shared or nothing will be shared.
+
+**iOS**
+
+- Create a video or GIF by selecting between 2 and 50 images in &#39;Edit&#39; mode, then pressing the share button then &#39;create&#39;. A video preview window will open in the top half of the view – pressing the window will preview your movie. Choose between animated GIF and video and select frames per second in the lower half of the view.
+- Add music from your iOS music library to videos (not GIFs) by pressing &#39;Add Music&#39;. A selected song will be displayed as an audio wave in the music bar at the bottom of the &#39;Create Video&#39; screen. You can change the start time of the music by dragging from left to right on the audio wave.
+- Save the video / GIF to the Camera Roll by pressing &#39;Save&#39; at the right of the navigation bar.  You will be given the option to share the video / GIF after it has been saved. Note: GIFs saved will not animate when viewed, but will animate if sent via e-mail.
+
+### How do I mark images as &#39;favourite&#39; on the smartphone app?
+
+- You can mark an image as &#39;favourite&#39; from &#39;Stream&#39; or &#39;Image&#39; view by selecting &#39;Favourite&#39; from the toolbar.
+- Favourited images are marked with a yellow square on the smartphone app.
+- After importing images to the Desktop Software, your favourited images can be quickly viewed with the &#39;Favourite&#39; filter.
+-
+
+### How do I add / edit tags on the smartphone app?
+
+You can tag a selected image from &#39;Stream&#39; or &#39;Image&#39; view by selecting &#39;Tag&#39; from the bottom menu, typing in the textbox, then pressing the &#39;Save&#39; button.
+
+- Tags can be up to 20 characters long.
+- You can add one tag to each image.
+- Tagged images are marked with a pink icon on the smartphone app.
+- When imported to the desktop you can search for the tagged images through the desktop search bar.
+
+### What settings can be changed in the iOS smartphone app?
+
+The &#39;Settings&#39; screen displays information about Autographer.
+
+The following changes are possible:
+
+- Rename Autographer
+- Set the date and time on Autographer
+- Reset Autographer to factory default settings (iOS only)
+
+The following device changes can now be made within the app:
+
+- Sound status (On/Off)
+- GPS Status (On/Off)
+- Capture Rate
+
+To access these changes:
+
+- Once connected to the Autographer you will be taken to Chapters view.
+- On the left side of the navigation bar, is a new menu button.
+- Tap this and view the slide-out menu that appears from the left.
+- All settings exist in this menu.
+- To change the status of one of the Autographer settings, tap the desirable option&#39;s slide switch.
+
+### How do I change the Bluetooth name of my Autographer?
+
+It is possible to change Autographer&#39;s Bluetooth display name from within the app.
+
+1. From &#39;Chapter&#39; view, tap the &#39;Settings&#39; icon.
+2. Touch the text box containing the current device name at the top of the &#39;Settings&#39; menu. A keyboard will appear.
+3. Enter a new name up to a maximum of 11 characters and press &quot;Done&quot; on the keyboard.
+4. The new name will be visible next time you connect Autographer and open the app.
+
+Note: iOS caches Bluetooth display names of paired devices therefore may not update in your iOS &#39;Settings&#39; menu until you next pair the device.
+
+
+
+### How do I set the time on Autographer?
+
+Autographer&#39;s time and date is set by default to GMT. You can update the time in two ways:
+
+Setting the time using the desktop software:
+
+1. Connect Autographer to your computer using the USB.
+2. Run the Autographer desktop software.
+3. Go to settings and click &#39;Synchronise clock&#39;.
+4. Disconnect the camera and the time will be updated.
+
+Setting the time using your smartphone:
+
+1. Connect Autographer to your smartphone.
+2. Click on &#39;settings&#39; and &#39;date and time&#39;.
+
+
+
+### How do I connect Autographer to my Android smartphone?
+
+You must have the latest software on your Autographer before you can connect to Android.
+
+#### To update
+
+- Connect your computer to the internet
+- Connect your Autographer to your computer via the USB cable
+- Open the Autographer app on the computer
+- If updates are available for your device, you&#39;ll see an Update button appear beneath the Import button. Click this to start the installation, and then click &#39;Update Now&#39; on the pop up screen
+- If you do not see the update button, your Autographer is up to date
+
+ ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAAB2CAIAAACh0i0KAAADmElEQVR42u3cy46CMBiG4bkab2DcmrDThIW60cUkhMVszNyUlzrlYPu3VGgRROD9FhOohUl4pqfR+nW/32+32x+ZYb7AA4+AR8ADj4BHwCPggUfAI+CBR8Aj4JGB8X6vh+RwOCSnzC6rc7j+WudlTtfiouKVItlJvJKJsvqkOJZ3J0PhFS6nTD7fUqo+cY8fYOa4uFIzmuoVqKkC3gh4DwXzgKWRt6o8lri6len7qfZZvAbeOHgaxG4zUXhWZeePITupE/BGwWuMZdmgLa+8m2p/4I2AZz16PcWIH/M8w6VpbdXoB97AeE6zEQzubLMFr2W2KSab4LHOA4+AR8Aj4IFHwCPggUfAI+AR8MAj88Y7Ho/ffaOu5SlPiff9WnjK0+P1uDt44BHwmG12askZCngzw5N+n4OX5zl4cX5teHm63SSXt8Cp37RNwYv0A2+WE5budZ7Gq55tmmyqqLKLOC6izrfpRVWzSvVd6hgfVShuqPOeP5WPXaT38wvAezzZiq06Ng1GllbVTQ1NUlSq/cpyy3L1La+3XwieJGgcy0Jx6na8upqjBV7nGNZnJGo+6rKHzJt48uE/LnCKzY0cVfBKsyH9wHv/hGUwvzi86G4TPP/QVfm9GU9OPa2JyZMJC3iv/pcrYqnQ2fKSpLEkaFkq+NYTa14qDIwXEafbJOCtcJ03xTvp4L2Ax2dYZoxHwCPgEfDAI+AR8MAj4BHwCHjgEfAIeCQMb7/f935LSF3LU54Sj23Ns8frcXfwwCN0m2vG+4kPeHSbL2WRG5onx3P3iUTvle3+ROBiP+g++ZgH3ozHvBa8ln3MF7NlIRV4Ys/CZiN33G7cTbWeDQ90m0N2m237mB/XyDpWGyxfaNa3WuEymuTn4nk25D0pft6dCiO38vu+jGJtY55/K6zbXHybK+2O0lxhd6sL6Tvj/jGtDgJHO3nJ+Hg1W6OR2XiLm7qEviV0Pp/D3yXQcuqq9qmg1XEZsshu07EO6jbXhCf9drudalveOqpcvRog58xEWiYjz/YxizqX5rSz2d7sL2cRN10FXmXT0qpk63ym65lbeEagkH3M1lJB3Kf+BiXxNTu+pcIi+tA+76RrpDzPKyT1Ux0HNrhBlt/kr/fHIJwuNLyrBG96PKcLjeoqwZseT04s+aDKLPEIeAQ88Ah4BDwCHngEPAIeAQ88Ah4BDzwCHgGPgAceAY+ABx4PAjwCHgEPPAIeGSH/67jZZY3DBwcAAAAASUVORK5CYII=)
+
+Once the screen says &#39;Updates successful!&#39; you are free to disconnect your device ![](data:image/*;base64,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)
+
+#### Once you have checked that you have the latest software, you are ready to connect your Autographer to your smartphone via Bluetooth.
+
+You must pair Autographer with your Smartphone before you use it for the first time:
+
+1. Launch the Autographer App. The app will ask to turn on Bluetooth, allow it.
+2. Tap the &#39;Get Started&#39; button read through the guide and you will be taken to your phones Bluetooth pairing screen. If this is the first time you have opened the app the guide will show automatically.
+3. Turn your Autographer on.
+4. Press Autographers menu button until Bluetooth &quot;OFF&quot; is displayed.
+5. Press the Autographers the select button twice until &#39;PAIR&#39; is displayed, this will then change to &#39;DISCOVER&#39;
+6. Search for new devices in your smartphones Bluetooth menu
+7. Select your Autographer from the list. If you can&#39;t see your Autographer on the list press &#39;Search / Scan for Devices&#39; – Note. There is an issue where your Autographer may be shown as &#39;B?&#39; on this list.
+8. Once your phone and Autographer are paired press the back button on your phone.
+9. Press the select button on your Autographer twice, the Autographers screen will now show &#39;ON&#39; which will change to &#39;SEEKING&#39;.
+10. After a short wait your Autographer will show a four digit code. Enter the code on your phone and you will be able start using the app.
+
+#### For subsequent uses, select &quot;ON&quot; from the Autographer Bluetooth menu to connect to your smartphone:
+- Providing that Bluetooth is enabled on your smartphone, you will receive a notification letting you know Autographer wants to connect. Just tap the notification to use the app.
+- Autographer will switch Bluetooth off after 10 minutes of inactivity
+- Autographer does not capture images while Bluetooth is active
+- To switch off Bluetooth on Autographer click any button
+
+### What settings can be changed in the Android smartphone app?
+
+The &#39;Settings&#39; screen displays information about Autographer.
+
+The following changes are possible:
+
+- Rename Autographer
+- Set the date and time on Autographer
+
 ## Desktop Software (25)
 ## Troubleshooting (6)
